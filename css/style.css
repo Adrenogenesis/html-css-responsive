@@ -1,0 +1,71 @@
+.img {
+    max-width: 100%;
+}
+
+a:link    {
+	/* Applies to all unvisited links */
+	text-decoration:  none;
+	} 
+
+
+.flex-container {
+  display: flex;
+  flex-wrap: wrap;
+ 
+}
+
+.flex-container > div {
+  background-color: #f1f1f1;
+  width: 500px;
+  height: 400px;
+  margin: 2px;
+  text-align: left;
+  font-size: 20px;
+}
+
+.container3 {
+
+    width: auto;
+    margin-left: 10%;
+    margin-top: 20px;
+}
+
+.img1 {
+    width: 408px;
+    height: 271px;
+}
+
+.img2 {
+    width: 408px;
+    height: 271px;
+}
+
+.img3 {
+    width: 408px;
+    height: 271px;
+}
+
+.img4 {
+    width: 408px;
+    height: 271px;
+}
+
+.img5 {
+    width: 408px;
+    height: 271px;
+}
+
+.img6 {
+    width: 408px;
+    height: 271px;
+}
+
+
+figure {
+    height: auto;
+    align-content: center;
+}
+
+figcaption {
+    display: block;
+}
